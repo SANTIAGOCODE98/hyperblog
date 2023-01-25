@@ -4,4 +4,4 @@ santiago Bohorquez tiene 24 años y nacio en colombia
 
 hoy esta probando el repositorio de git
 
-tambien hablaremos de la vida de santiago
+tambien hablaremos de la vida de santiago y sus decisiones
